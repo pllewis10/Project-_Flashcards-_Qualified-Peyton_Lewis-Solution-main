@@ -1,0 +1,35 @@
+{
+  "decks": [
+    {
+      "name": "Deck Name",
+      "description": "Brief description of the deck",
+      "id": 2
+    }
+  ],
+  "cards": [
+    {
+      "card": {
+        "front": "",
+        "back": ""
+      },
+      "deckId": 2,
+      "id": 4
+    },
+    {
+      "card": {
+        "front": "",
+        "back": ""
+      },
+      "deckId": 2,
+      "id": 6
+    },
+    {
+      "card": {
+        "front": "",
+        "back": ""
+      },
+      "deckId": 2,
+      "id": 7
+    }
+  ]
+}
